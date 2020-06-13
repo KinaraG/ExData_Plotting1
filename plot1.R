@@ -1,4 +1,3 @@
-setwd("C:\\Users\\1911120\\Desktop\\GIT\\ExploratoryGraphs\\Week1")
 
 install.packages("data.table")
 library(data.table)
